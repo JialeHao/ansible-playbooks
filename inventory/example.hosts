@@ -1,0 +1,7 @@
+[example]
+192.168.0.1  ansible_ssh_user=admin ansible_ssh_pass=passwd
+192.168.0.2
+a.example.com
+
+[example:vars]
+region=beijing
